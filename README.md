@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @anishSingh7010
+- 👀 I’m interested in learning new and cool web development technologies.
+- 🌱 I’m currently revisiting javascript and learning react.
